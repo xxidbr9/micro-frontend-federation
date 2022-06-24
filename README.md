@@ -1,5 +1,5 @@
 # Micro Frontend Federation
-Combine All Frontend Technology into the one universe
+Combine All Frontend Technology into the one universe wrap in NEXT.js
 
 ### TODO
 Combine all frontend in this list below 
@@ -7,7 +7,6 @@ Combine all frontend in this list below
 - [ ] Preact
 - [ ] Solid
 - [ ] Svelte
-- [ ] Vue 2
 - [ ] Vue 3
 - [ ] Million
 - [ ] Angular
